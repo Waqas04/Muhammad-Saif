@@ -280,7 +280,30 @@ export const PROJECTS = [
     image: "/projects/project-3.jpg",
     link: "https://www.approva.co/",
   },
+  {
+    title: "Deals.ai",
+    description:
+      'Embark on a journey into Muhammad Saif’s innovation with Deal.AI – an intelligent platform transforming the way businesses negotiate and finalize deals. Built with precision and powered by AI, this project is more than just software; it’s a smart, seamless experience that redefines efficiency and decision-making in the digital age.',
+    image: "/projects/project-1.jpg",
+    link: "https://home.deal.ai/",
+  },
+  {
+    title: "Verbyo",
+    description:
+      'Step into the creative vision of Muhammad Saif with Verbyo – an innovative application designed to revolutionize the way we generate and share content. Fueled by AI and crafted for simplicity, Verbyo transforms ideas into impactful words. It’s more than just an app; it’s a modern content companion built for speed, clarity, and creativity.',
+    image: "/projects/project-2.png",
+    link: "https://verbyo.com/",
+  },
+  {
+    title: " Approva",
+    description:
+      'Discover the future of streamlined approvals with Approva – a smart solution by Muhammad Saif that simplifies and accelerates decision workflows. Designed for modern teams and powered by intelligent automation, Approva transforms complex approval chains into effortless processes. It’s more than just an app; it’s a powerful tool for clarity, speed, and control in organizational operations.',
+    image: "/projects/project-3.jpg",
+    link: "https://www.approva.co/",
+  },
+  
 ] as const;
+
 
 export const FOOTER_DATA = [
   {
