@@ -59,16 +59,21 @@ export const HeroContent = () => {
 
       <motion.div
         variants={slideInFromRight(0.8)}
-        className="w-full h-full flex justify-center items-center"
+        className="w-full h-full flex justify-center items-center ml-15"
       >
-        <Image
-          src="/hero-bg.svg"
-          alt="work icons"
-          height={650}
-          width={650}
-          draggable={false}
-          className="select-none"
-        />
+     
+      <div className=" border-white/20 shadow-2xl rounded-3xl p-6 w-[400px] h-[460px] flex flex-col items-center justify-center">
+  <Image
+    src="/hero-bg.png"
+    alt="Profile image"
+    height={300}
+    width={300}
+    draggable={false}
+    className="rounded-full border-4 border-purple-500 shadow-lg shadow-blue-500/30"
+  />
+  {/* <h3 className="text-white text-lg font-semibold mt-4">Muhammad Saif</h3>
+  <p className="text-gray-300 text-sm text-center">Full Stack Developer</p> */}
+</div>
       </motion.div>
     </motion.div>
   );
