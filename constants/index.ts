@@ -267,39 +267,40 @@ export const PROJECTS = [
     link: "https://home.deal.ai/",
   },
   {
-    title: "Verbyo",
+    title: " All in One AI Platform",
     description:
-      'Step into the creative vision of Muhammad Saif with Verbyo – an innovative application designed to revolutionize the way we generate and share content. Fueled by AI and crafted for simplicity, Verbyo transforms ideas into impactful words. It’s more than just an app; it’s a modern content companion built for speed, clarity, and creativity.',
-    image: "/projects/project-2.png",
-    link: "https://verbyo.com/",
-  },
-  {
-    title: " Approva",
-    description:
-      'Discover the future of streamlined approvals with Approva – a smart solution by Muhammad Saif that simplifies and accelerates decision workflows. Designed for modern teams and powered by intelligent automation, Approva transforms complex approval chains into effortless processes. It’s more than just an app; it’s a powerful tool for clarity, speed, and control in organizational operations.',
-    image: "/projects/project-3.jpg",
-    link: "https://www.approva.co/",
-  },
-  {
-    title: "Deals.ai",
-    description:
-      'Embark on a journey into Muhammad Saif’s innovation with Deal.AI – an intelligent platform transforming the way businesses negotiate and finalize deals. Built with precision and powered by AI, this project is more than just software; it’s a smart, seamless experience that redefines efficiency and decision-making in the digital age.',
-    image: "/projects/project-1.jpg",
+      'Enter the world of Deal.AI – an all-in-one AI powerhouse engineered by Muhammad Saif to centralize and streamline multiple intelligent tools under one seamless platform. From automation to analytics, Deal.AI brings together a suite of AI-powered solutions designed to enhance productivity, decision-making, and innovation. It’s more than a collection of tools – it’s Muhammad Saif’s unified vision for smarter digital transformation in one place.',
+    image: "/projects/project-6.png",
     link: "https://home.deal.ai/",
   },
   {
-    title: "Verbyo",
+    title: "LifeLong Wellness",
     description:
-      'Step into the creative vision of Muhammad Saif with Verbyo – an innovative application designed to revolutionize the way we generate and share content. Fueled by AI and crafted for simplicity, Verbyo transforms ideas into impactful words. It’s more than just an app; it’s a modern content companion built for speed, clarity, and creativity.',
-    image: "/projects/project-2.png",
-    link: "https://verbyo.com/",
+      'Explore wellness and transformation through DrJeromePuryear.com – a professionally developed website crafted by Muhammad Saif to amplify the voice and vision of Dr. Jerome Puryear. Focused on clarity, trust, and accessibility, the platform offers a seamless experience for visitors to connect with expert insights, services, and resources. It’s more than a website – it’s a digital gateway to healing, built with care and precision.',
+    image: "/projects/project-5.png",
+    link: "https://drjeromepuryear.com/",
   },
+ 
   {
+    title: "InfoHomes",
+    description:
+      'Discover the future of real estate with InfoHomes – a modern platform crafted by Muhammad Saif to redefine how users explore, compare, and engage with property listings. Built with precision and a focus on seamless usability, InfoHomes simplifies complex housing decisions through smart search and intuitive design. It’s more than just a real estate website – it’s Muhammad Saif’s vision of a smarter, faster property journey.',
+    image: "/projects/project-4.png",
+    link: "https://infohomes.com/",
+  },
+   {
     title: " Approva",
     description:
       'Discover the future of streamlined approvals with Approva – a smart solution by Muhammad Saif that simplifies and accelerates decision workflows. Designed for modern teams and powered by intelligent automation, Approva transforms complex approval chains into effortless processes. It’s more than just an app; it’s a powerful tool for clarity, speed, and control in organizational operations.',
     image: "/projects/project-3.jpg",
     link: "https://www.approva.co/",
+  },
+   {
+    title: "Verbyo",
+    description:
+      'Step into the creative vision of Muhammad Saif with Verbyo – an innovative application designed to revolutionize the way we generate and share content. Fueled by AI and crafted for simplicity, Verbyo transforms ideas into impactful words. It’s more than just an app; it’s a modern content companion built for speed, clarity, and creativity.',
+    image: "/projects/project-2.png",
+    link: "https://verbyo.com/",
   },
   
 ] as const;
